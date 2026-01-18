@@ -290,4 +290,7 @@ hr{
 .header-text{
     justify-content: center;
 }
+    .email input{
+        padding: 20px 50px;
+    }
 }
